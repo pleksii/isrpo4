@@ -63,6 +63,13 @@ OK
 - Тесты с дробными числами
 - Негативные тесты (обработка ошибок)
 
+## GitHub Actions
+
+Настроено автоматическое тестирование при каждом push:
+- **OS:** Ubuntu & Windows
+- **Workflow:** `.github/workflows/main.yml`
+- Подробности в [GITHUB_ACTIONS.md](GITHUB_ACTIONS.md)
+
 ---
 
 **Статус проекта:** Все тесты пройдены успешно
